@@ -7,3 +7,4 @@
 - [2022-06-05](https://github.com/sejineeee/TIL/blob/main/06/TIL-2022-06-05.md)
 - [2022-06-06](https://github.com/sejineeee/TIL/blob/main/06/TIL-2022-06-06.md)
 - [2022-06-07](https://github.com/sejineeee/TIL/blob/main/06/TIL-2022-06-07.md)
+- [2022-06-08](https://github.com/sejineeee/TIL/blob/main/06/TIL-2022-06-08.md)
